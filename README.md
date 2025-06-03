@@ -13,6 +13,7 @@ Opciones que puedes escoger
 
 <b>Tecnologias Utilizadas</b>
   - JAVA
+
 <b>Requisitos</b>
 -Instalar Biblioteca Gson
 ----------
