@@ -1,8 +1,8 @@
-# Comvertidor-de-Monedas
+# Convertidor-de-Monedas
 Es un programa que te permite convertir monedas utilizando API gratuita
 Opciones que puedes escoger
 - Ver las monedas disponibles
-- Comvertir de una moneda a otra
+- Convertir de una moneda a otra
 - Salir del programa
 ----------
 
