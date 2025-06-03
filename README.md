@@ -1,5 +1,6 @@
 # Convertidor-de-Monedas
-![Badge en Finalizado](https://img.shields.io/badge/STATUS-EN%20FINALIZADO-green)
+![Badge en Finalizado](https://img.shields.io/badge/STATUS-EN%20FINALIZADO-green) 
+![Badge en Lenguaje](https://img.shields.io/badge/LENGUAJE-EN%20JAVA-blue)
 
 <b>Descripcion</b>
 
